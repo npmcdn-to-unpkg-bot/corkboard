@@ -1,0 +1,20 @@
+.card {
+  overflow: hidden;
+  font-family: "Helvetica Neue";
+  margin-bottom: 2rem;
+  border-radius: 3px;
+}
+
+.card--with-name {
+    box-shadow: 0 0 0 1px #CCC;
+}
+
+.name {
+  padding: 1rem;
+  background-color: #EFEFEF;
+}
+
+.content {
+  padding: 1rem;
+  position: relative;
+}

@@ -1,0 +1,32 @@
+.controls {
+    display: flex;
+    justify-content: space-between;
+}
+
+.control {
+    text-align: center;
+    display: block;
+    flex: 1 1 auto;
+
+    width: 20%;
+
+    color: #CCC;
+    font-size: 12px;
+
+}
+
+.control > a {
+    cursor: pointer;
+    display: block;
+    padding: .5rem;
+    color: blue;
+}
+
+.control > a:hover {
+    text-decoration: underline;
+}
+
+.control > span {
+    padding: .5rem;
+    display: block;
+}
