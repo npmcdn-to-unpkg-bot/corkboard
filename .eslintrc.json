@@ -1,0 +1,9 @@
+{
+    "extends": [
+        "pinterest",
+        "pinterest/rules/react"
+    ],
+    "env": {
+        "browser": true
+    }
+}
