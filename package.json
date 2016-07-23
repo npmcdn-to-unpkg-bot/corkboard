@@ -23,6 +23,7 @@
     "eslint-plugin-babel": "^3.1.0",
     "eslint-plugin-react": "^4.2.3",
     "express": "^4.13.3",
+    "highlight.js": "^9.5.0",
     "jest-cli": "^0.9.2",
     "postcss": "^5.0.19",
     "postcss-cssnext": "^2.5.1",
